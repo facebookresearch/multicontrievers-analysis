@@ -1,0 +1,785 @@
+,_id,text,orig_gender
+0,train1255,who was the guy that shot himself on tv,m
+1,train1312,who played ms pearly on friday after next,f
+2,train8811,who was the girl that played punky brewster,f
+3,train3639,who is langley air force base named for,n
+4,train31045,who wrote the song the greatest man i never knew,m
+5,train28216,who plays clay's wife on one tree hill,f
+6,train16244,who holds the record for most mr olympia,m
+7,train3529,who plays nate in i am not ashamed,n
+8,train41832,who played tommy ross in the movie carrie,n
+9,train1965,who is left on top chef season 15,n
+10,train32331,who played ice tray on fresh prince of bel air,m
+11,train40446,who wrote the song i'm on fire,n
+12,train11725,who sings i'm going back to cali,n
+13,train44065,who was the slytherin seeker in harry potter 1,n
+14,train24225,who has played in manchester merseyside and glasgow derby,n
+15,train16173,who is the female dancer in dirty dancing,f
+16,train36152,every rapper's name that starts with lil,n
+17,train17771,who plays chelsea's mom on young and the restless,f
+18,train49274,who did batman fight in marvel vs dc,n
+19,train35137,who plays kyle in the following season 3,n
+20,train38447,who led the russian peasant rebellion of the 1770s,n
+21,train18715,who plays the black knight in monty python,n
+22,train15698,who is the actor on the carmax commercials,n
+23,train1396,who played phoebe's brother's wife on friends,f
+24,train267,who wrote the loneliness of the long distance runner,n
+25,train9425,who wrote the song try a little kindness,n
+26,train44278,who plays johanna in sweeney todd the movie,n
+27,train18380,who played anne neville in the white queen,f
+28,train29082,who directed butch cassidy and the sundance kid,n
+29,train22173,who has the biggest state fair in the usa,n
+30,train7291,where does the last name archer come from,n
+31,train500,who plays young tom riddle in the chamber of secrets,n
+32,train23100,who is the laughing man in ghost in the shell,m
+33,train1400,who is the actress that played princess leia,f
+34,train1835,who did teddy altman marry on grey's anatomy,n
+35,train28766,who was the leader of new zealand during ww2,n
+36,train8817,who established the indian society of oriental art,n
+37,train1964,who played john wayne's daughter in mcclintock,f
+38,train97,who sings dream weaver in the leon's commercial,n
+39,train43164,who is the android created by noonian soong that has a cat spot,n
+40,train12795,christmas movie about a little girl who lives in a hotel,f
+41,train29243,american comedy actor who starred in the 1963 version of the nutty professor,n
+42,train32681,who is in charge of purchasing in a company,n
+43,train24422,what is the correct name for the @ symbol,n
+44,train7813,who was the chief minister of mp during bhopal gas tragedy,n
+45,train50022,who sang the original song our day will come,n
+46,train37996,who did the music for pride and prejudice,n
+47,train7073,who played lal on star trek the next generation,n
+48,train23625,who was the foremost artist of the german renaissance,n
+49,train49887,who is the song angel of death about,n
+50,train15636,who is regina's dad once upon a time,m
+51,train47285,who was the actress in singing in the rain,f
+52,train29170,who sang the song sad movies make me cry,n
+53,train46941,who is sara harvey in pretty little liars,n
+54,train32803,who are the two candidates running to represent us in the 18th congressional district of pa,m
+55,train49798,who is the pastor of temple of deliverance cogic,n
+56,train27787,who sings are you gonna kiss me or not,n
+57,train48508,who started the school of american ballet and the new york city ballet,n
+58,train47612,who sings bella notte in lady and tramp,f
+59,train43589,who is the girl dancing with pitbull in timber,f
+60,train38985,who played daniel's daughter on days of our lives,f
+61,train23707,who sang you dropped a bomb on me,n
+62,train33041,paula radcliffe who wants to be a millionaire,n
+63,train11384,who plays vincent van gogh in doctor who,n
+64,train11132,who plays russell crowe's wife in gladiator,f
+65,train5376,who wrote and recorded spirt in the sky,n
+66,train47295,who is long live by taylor swift about,n
+67,train29505,who played del preston in wayne's world,n
+68,train975,who was the woman that lived with the gorillas,f
+69,train45082,who was the actress that died in a skiing accident,f
+70,train35929,who sang little drummer boy with bing crosby,m
+71,train50128,the basic forces that motivate a person to do something to sustain biological life,n
+72,train18841,actress who played aunt sally in worzel gummidge,f
+73,train12567,who won the fifa world cup 2015 men's,m
+74,train22272,who plays the voice of pizza steve on uncle grandpa,m
+75,train10496,where did the name short pump come from,n
+76,train40827,who is the bad and the beautiful based on,n
+77,train23066,who created the first monotheism known in history,n
+78,train49300,who is the main characters in fantastic mr fox,m
+79,train42780,who is the man that appears on the wally trophy,m
+80,train13659,who invented the latitude and longitude grid system,n
+81,train28391,what is the origin of the last name taylor,n
+82,train32846,who won the first college football national title,n
+83,train4746,who plays in the movie fifty shades of grey,n
+84,train26378,who plays the master in buffy season 1,n
+85,train25827,who is the guy at the end of matrix reloaded,m
+86,train9446,who has the power to ratify a treaty,n
+87,train16814,who was the roland garros tennis tournament named after,n
+88,train10490,who sings i got a meeting in the ladies room,f
+89,train5092,who ended the warring states period in china,n
+90,train7848,who sings the song i'm way too good at goodbyes,n
+91,train39954,who is the youngest of the kardashian sisters,f
+92,train45094,who invented the world's first ammonia free hair color,n
+93,train25498,who sings the theme song for the boondocks,n
+94,train49997,who is known for her role in narmada bachao andolan,f
+95,train26775,who is known as the first lady of indian cinema,f
+96,train46335,who said may we never forget freedom isn't free,n
+97,train3283,who wrote the song better man for little big town,m
+98,train13647,how did memphis may fire get their name,n
+99,train38170,how did the brazilian wax get its name,n
+100,train41780,who played miss jean brodie in the tv series,f
+101,train27600,who has a red black and green flag,n
+102,train48134,who is the host of big beach builds,n
+103,train10489,who played baby's mom in dirty dancing 2017,f
+104,train38008,who does christine end up with in the phantom of the opera,n
+105,train25974,who does lauren cohan play in the walking dead,n
+106,train46005,who served as the first emperor of the roman empire,n
+107,train8445,who wrote the song i never promised you a rose garden,n
+108,train20483,who was shot at the congressional baseball game,n
+109,train13910,who yielded his life an atonement for sin,m
+110,train27014,in greek mythology the lover of hero who drowned while trying to swim across hellespont,n
+111,train26477,who wrote i was born under a wandering star,n
+112,train37088,who was the first canadian in space what does he do now,m
+113,train9032,who is the actress in meet joe black,f
+114,train2200,who won season 3 great british baking show,n
+115,train47903,who voices spider man in the animated series,m
+116,train32607,who fought on the side of the republicans in the spanish civil war brainly,n
+117,train16549,who played lindsay on two and a half men,m
+118,train10465,who voices bill on king of the hill,m
+119,train2782,who sings how long has it been going on,n
+120,train40326,who sings am i that easy to forget,n
+121,train49537,who plays naomi clark's mom on 90210,f
+122,train16041,who sings the song you got to keep your head up,n
+123,train1842,who sang don't you want someone to love,n
+124,train16111,what is the name of beethoven's only opera,n
+125,train23967,who plays john wick on the big screen,n
+126,train14290,who won the 2002 us open men's tennis championship,m
+127,train23053,who sings i'm looking for a new love baby,n
+128,train16537,who was the chola king under whose region the brihadeeswara temple of tanjore was constructed,m
+129,train31820,who wrote the theme song to sanford and son,m
+130,train8996,who does jackson avery end up with on grey's anatomy,n
+131,train40438,who has the right of way at sea,n
+132,train46057,who is captain flint based on black sails,n
+133,train27728,who is the little girl who danced with gene kelly in anchors aweigh,f
+134,train3278,who is jake's mom in the dark tower,f
+135,train3124,who sang john the revelator on sons of anarchy,m
+136,train8218,who does the voice of mr grouper on bubble guppies,m
+137,train2125,who is should've said no written about,n
+138,train11001,who played the original phyllis on young and the restless,n
+139,train27133,who voices the man in the yellow hat,m
+140,train26513,who is the lady on the australian 5 dollar note,f
+141,train12934,what is the origin of the name imogen,n
+142,train5395,who are the current members of little river band,n
+143,train31701,what is the name of the black and white cows,n
+144,train9741,who is the first lady pilot in india,f
+145,train24157,who wrote the song one in a million,n
+146,train38020,how did bullhead city arizona get its name,n
+147,train9582,who played the little girl in the movie matilda,f
+148,train47457,who plays smash mom on friday night lights,f
+149,train11280,where did all time low get their name,n
+150,train749,who did gemma whelan play in game of thrones,n
+151,train21067,who votes for nfl man of the year,m
+152,train25105,who plays louis in ice age continental drift,n
+153,train1869,who plays rita deveraux on ncis new orleans,n
+154,train4547,who sang from a jack to a king,m
+155,train35847,who played jackie laverty in line of duty,n
+156,train48976,who played trinity in sons of anarchy season 3,m
+157,train28821,who sings the parts in i miss you blink 182,f
+158,train46234,who called 1857 revolt first war of independence,n
+159,train41981,who invented the post box in victorian times,n
+160,train15648,who is the little boy on the shining,m
+161,train8051,who started the fire at rick's on desperate housewives,f
+162,train27210,who founded the green party of the united states,n
+163,train21166,who is the author of crime and punishment,n
+164,train28752,who sings the song i really miss you brandy,f
+165,train5130,where did the name grandfather clock come from,m
+166,train20750,what was the name of the first rover to land on mars,n
+167,train38755,who was born on the 3rd of january,n
+168,train3246,who sang the original theme song for gilligan's island,n
+169,train7864,where does the name rolling stones come from,n
+170,train39491,who wrote the music for shakespeare in love,n
+171,train27553,who played cory matthews in girl meets world,f
+172,train49246,who plays merida in once upon a time,n
+173,train38590,who was the first person to win strictly come dancing,n
+174,train29097,who wrote the song nobody does it better,n
+175,train29053,who is considered the founder of the child study movement,n
+176,train16294,who is the big woman in game of thrones,f
+177,train20082,who plays the pirate in game of thrones,n
+178,train36962,who played sam tyler's mom in life on mars,f
+179,train18318,who is the actress that plays alison in pretty little liars,f
+180,train1298,who played the son in daddy day care,m
+181,train50090,who won the women's doubles in the french open,f
+182,train30277,who does the voice for mrs potato head,f
+183,train28182,who is the issuing authority for california drivers license,n
+184,train27397,who was the first black woman to win a grammy,f
+185,train39258,who is the present judge of high court of karnataka,n
+186,train14890,who inspired sir arthur conan doyle to write sherlock holmes,m
+187,train33752,who is the president of miami dade college,n
+188,train3822,who is the actress that played kimmy gibbler on full house,f
+189,train17592,who plays rue in the hunger games film,n
+190,train33180,who did freddy end up with in icarly,n
+191,train12335,who devised the concept of human life value,n
+192,train18205,where does the last name marcus come from,n
+193,train48579,who plays luke's dad on the oc,m
+194,train37793,who is the girl in the jergens commercial,f
+195,train43501,who was defeated and killed in the fourth mysore war at srirangapatna,n
+196,train44786,who was the french chef given credit for developing the classical kitchen brigade,n
+197,train63,who sang the sunny side of the street,n
+198,train35447,who wrote the song all i ask by adele,n
+199,train22604,who plays fiona's boss on shameless season 4,n
+200,train36229,who is the actress in my cousin vinny,f
+201,train4829,who plays leonard on sabrina the teenage witch,f
+202,train37034,who created a statue of the idealized male thus creating the greek canon of proportions,m
+203,train38266,who compiled the american dictionary of english language in which year,n
+204,train13318,who has won the least amount of world series,n
+205,train16514,who played uncle arthur in the comedy company,m
+206,train8185,who sang i in demand i am the beat,n
+207,train10956,who is the goddess of love in egypt,f
+208,train16083,who does cisco turn into in the flash,n
+209,train19868,who played rusty on the danny thomas show,n
+210,train42799,who wrote to kill a mockingbird and in what year was it published,n
+211,train9442,who funded the bible museum in washington dc,n
+212,train33424,who died off fresh prince of bel air,m
+213,train48167,who played the thin man in the tv series,m
+214,train4200,who declared sunday as holiday for the first time in the world,n
+215,train10001,who owns the las vegas golden knights hockey team,n
+216,train21092,who plays professor buck awe on sesame street,n
+217,train20291,who won the men's wimbledon championship 2016,m
+218,train11785,swing vote movie who did he vote for,m
+219,train8862,who played nelson mandela in the 2013 movie,n
+220,train14433,who plays faith on buffy the vampire slayer,n
+221,train49411,who played the guitar solo on midnight at the oasis,n
+222,train49937,who decides the winners of the brit awards,n
+223,train4466,nurse's real name in romeo and juliet,n
+224,train39080,who did gloria loring play on days of our lives,n
+225,train21675,who introduced the idea of using mass-produced interchangeable parts in manufacturing (points 3),n
+226,train17590,who is the goddess of the moon in greek mythology,f
+227,train29808,who played claudia in how i met your mother,f
+228,train15134,who played the original nick tilsley in coronation street,n
+229,train14986,who sang we are young in the 80's,n
+230,train15607,who played the mom on wizards of waverly place,f
+231,train30010,who wrote the soundtrack for la la land,n
+232,train49645,who was the first navy chief to be awarded the medal of honor,n
+233,train23580,who played dr stephanie on big bang theory,n
+234,train21185,who plays ryan in the movie game night,n
+235,train10873,who created the first solid body electric guitar,n
+236,train25188,who sang the song dama dam mast kalandar,n
+237,train32295,who played mr dewey on saved by the bell,m
+238,train12400,who is the girl that plays jane the virgin,f
+239,train6454,who sings paint it black in the last witch hunter,f
+240,train13170,who did mel in eastenders have a baby with,n
+241,train30126,who sang shall we dance in the king and i,m
+242,train4384,who plays the girl in the 5th wave,f
+243,train41101,who used the word pakistan for the first time,n
+244,train27279,who had the right in the roman republic to declare war,n
+245,train3459,real name of gwen stacy in amazing spiderman,n
+246,train42554,where are we now video who is the girl,f
+247,train23022,who plays mike in how to lose a guy in 10 days,m
+248,train21877,who does sabrina marry in sabrina the teenage witch,f
+249,train47706,who starred in the movie benny and joon,n
+250,train5976,who played snow queen in once upon a time,f
+251,train47574,who wrote a short walk in the hindu kush,n
+252,train15143,who was allowed citizenship in ancient greece and rome,n
+253,train36429,what is the name of the queen in snow white,f
+254,train28479,name the procedure used in the working of an artificial kidney,n
+255,train9541,who plays mr gunderson on hell on wheels,m
+256,train48428,who was the first female general officer in the air force,f
+257,train39150,who came up with the phrase once upon a time,n
+258,train43089,who plays ser barristan in game of thrones,n
+259,train10317,who is the real drew in teardrops on my guitar,n
+260,train47566,who played christian on one life to live,n
+261,train31009,who was regarded as war god of rigveda,n
+262,train29411,who plays nan in american horror story coven,n
+263,train27055,who wrote i think it's going to rain today,n
+264,train49034,who said we are not retreating we're advancing in another direction,n
+265,train5610,who are hopes parents on bold and the beautiful,n
+266,train969,who played quincy's wife in the last ship,f
+267,train38385,where does the name coeur d'alene come from,n
+268,train329,who casts the deciding vote in the senate,n
+269,train6523,who was the first to notice that distant galaxies were red shifted with respect to closer stars,n
+270,train35566,who was the voice of the taco bell dog,n
+271,train31995,who played in bob carol ted and alice,n
+272,train15871,where does the last name howell come from,n
+273,train11006,who smuggles sansa stark out of kings landing,m
+274,train29875,who shot rick's son in the walking dead,m
+275,train11123,who sings it takes two to make a thing go right,n
+276,train11979,who originally sang the song walking in memphis,n
+277,train42060,who plays the wildling woman in game of thrones,f
+278,train21411,who plays the psychic in grey's anatomy,n
+279,train26659,who does john stockton's son play for,m
+280,train2133,who sings with meatloaf on anything for love,n
+281,train39744,who played tommy in its a wonderful life,n
+282,train44069,who is the lead singer for iron maiden,f
+283,train31825,who was the monk who set himself on fire,m
+284,train37178,who sang never seen a girl like you before,f
+285,train25889,who sings so let me go i don't want to be your hero,n
+286,train8841,who is the original winnie the pooh voice,n
+287,train19700,who plays jack bauer's daughter on 24,f
+288,train23049,who played lennie briscoe on law & order,n
+289,train16023,who is the issuing authority for texas drivers license,n
+290,train29428,who won the femina miss india world in 2015,f
+291,train36015,who can take communion in the lutheran church,n
+292,train25560,who sings the song i'm just a love machine,n
+293,train10555,who sings will you ever see the day,n
+294,train22758,who sings the song i'm a wanderer,n
+295,train27112,who plays rachel's boyfriend joshua on friends,m
+296,train1828,who played worf's son in star trek the next generation,m
+297,train49894,who plays the bad guy in the cell,m
+298,train1077,the one who was a picture of a good neighbor in the parable of the good samaritan was,n
+299,train27408,who is known to be the father of modern public relations,m
+300,train26031,who is fort bragg north carolina named after,n
+301,train27891,who plays jacks son on will and grace,m
+302,train1504,who played compos son in last of the summer wine,m
+303,train16043,who is the original singer of defying gravity,n
+304,train25886,who plays donna's grandfather in doctor who,m
+305,train16001,who became india's first woman ips officer,f
+306,train19803,who sang all that jazz in the movie chicago,n
+307,train37443,what do you call someone who does graffiti,n
+308,train43564,who designed the sundial bridge in redding ca,n
+309,train25746,who captioned italy to world cup glory in 2006,n
+310,train40966,who becomes king of erebor when thorin dies,m
+311,train24320,who plays melinda's husband on ghost whisperer,m
+312,train14453,who built the temple to jupiter optimus maximus ( best and greatest ) in rome,n
+313,train41612,who won the women's doubles at wimbledon 2017,f
+314,train37385,who plays the scarlet witch in marvel movies,f
+315,train4281,who sang the song hey there lonely girl,f
+316,train3301,who has written a snake in the grass,n
+317,train12083,who does archie end up with in the archie comics,n
+318,train48967,who wrote the song i let her lie,f
+319,train5994,who played pontius pilate jesus christ superstar 2018,n
+320,train11321,who was the first black manager of a major league baseball team and what was the name of the team,n
+321,train34761,who won the title of isl football 2016,n
+322,train13325,who is the mayor of east brunswick nj,n
+323,train15733,who was the first woman to be elected to parliament in australia,f
+324,train5023,who surrendered in the battle of fort sumter,n
+325,train37951,who refused his best actor oscar for patton,m
+326,train41206,who is the designer of the piazza in front of st. peter's basilica,n
+327,train49713,who wrote the song country girl shake it for me,f
+328,train13864,who plays monk on the tv show monk,m
+329,train45696,who had control of the senate in 2008,n
+330,train34321,who did the music for there will be blood,n
+331,train24142,the secret garden who does mary end up with,n
+332,train12453,who sang i'm gonna wash that man right out of my hair,m
+333,train45662,who drove the mellow yellow car in nascar,n
+334,train36619,who is jessica simpson's sister married to,f
+335,train34769,who created the island of japan by stirring the water with a spear,n
+336,train32864,who played peter on days of our lives,n
+337,train12727,who plays loki in son of the mask,m
+338,train4965,who is the author of junie b jones,n
+339,train47305,who plays tammy 2 on parks and rec,n
+340,train14512,where does the last name esparza come from,n
+341,train23999,who is in the my name is mud video,n
+342,train44882,who did penny hardaway play for in the nba,n
+343,train16843,who sings jesus at the center of it all,n
+344,train8533,who has won the boat race more times,n
+345,train22202,who directed in the heart of the sea,n
+346,train1295,who plays barry's father on the flash,m
+347,train6147,who played the banker in it's a wonderful life,n
+348,train10714,who did steve reevis play on dances with wolves,n
+349,train28623,who is the carlson school of management named after,n
+350,train24747,who has held the wwe women's championship title the most,f
+351,train39796,aisi deewangi dekhi nahi kahi serial actress name,f
+352,train432,who had the idea of the nobel peace prize,n
+353,train44535,who wrote i saw god today by george strait,n
+354,train41230,where does the name king charles spaniel come from,m
+355,train28210,what is sailor jupiter's name in english,n
+356,train29971,pardes mein hai mera dil actress real name,f
+357,train49607,who played the godsey's daughter on the waltons,f
+358,train6456,who sings i'm just a jealous guy,m
+359,train36456,what was the name of the first ibm computer,n
+360,train41239,who wrote fantasy by earth wind and fire,n
+361,train43755,who was the first king of ancient india,m
+362,train45681,who recorded the first important national garage-band hit louie louie,n
+363,train6537,who is the mayor of santa rosa ca,n
+364,train43387,who is opening for john mayer on his tour,m
+365,train8958,who played the dad on that 70 show,m
+366,train48669,who won the men's singles title of the us open tennis grand slam 2014,m
+367,train37426,who is the actor that plays frank gallagher,n
+368,train1405,who is the first photographer that is discussed in the reading from his in the american west series,m
+369,train32811,who played the grandfather in willy wonka and the chocolate factory,m
+370,train35498,who played elizabeth ross's girlfriend on friends,f
+371,train16483,who sings tis so sweet to trust in jesus with alan jackson,n
+372,train34205,who presides over the texas house of representatives,n
+373,train23339,who plays alex's mom in alexa and katie,f
+374,train33650,who is the leader of the elves in lord of the rings,n
+375,train1746,who is gluttony in the seven deadly sins anime,n
+376,train49681,who has driven the 2 car in nascar,n
+377,train1008,who wants to be a millionaire phone a friend rules,n
+378,train19848,who is summer's father on young and restless,m
+379,train11788,who plays aiden in stuck in the middle,n
+380,train25786,who were the three european kings who participated in the third crusade,m
+381,train12100,who started the first catholic school in america,n
+382,train41732,who narrates the murders in the rue morgue,n
+383,train44865,who is the little boy in robocop 2,m
+384,train27012,who sings the song welcome to my world,n
+385,train2353,who was the mother on lost in space,f
+386,train34300,who allowed the exiles to return from babylon and what nation did he rule,m
+387,train36014,who coined the phrase the blank from hell,n
+388,train8111,who played jill valentine in resident evil apocalypse,n
+389,train39447,who played hades in once upon a time,n
+390,train46011,who plays dennis on it's always sunny in philadelphia,n
+391,train10014,who is the actress in the new fbi series,f
+392,train18202,who plays alex rider in the movie stormbreaker,n
+393,train12462,who is the actor that plays bjorn ironside,n
+394,train989,who won australia's next top model s9,n
+395,train37631,who was the king of england during pride and prejudice,m
+396,train25748,who has supreme power in the eastern orthodox church,n
+397,train23177,who sings the song no more shopping sprees,n
+398,train4081,who said we have found the enemy and it is us,n
+399,train3197,where did the name red bull come from,m
+400,train31912,movie about a woman who kidnaps a writer,f
+401,train18577,who is the actor that plays lucifer on tv,n
+402,train28244,who is the actor that plays manny on modern family,n
+403,train32786,who sings the song i feel like bustin loose,n
+404,train12711,who plays the prince in once upon a time,m
+405,train34094,where is the guy who played keith on good times,m
+406,train39836,who plays rickon stark on game of thrones,n
+407,train6835,what is the name of the largest part of the human brain,n
+408,train13260,who wrote the best selling book the road ahead,n
+409,train12264,who played mike damone in fast times at ridgemont high,n
+410,train18329,who plays chelsea on two and a half men,m
+411,train15451,who sings i'm leaving it all up to you,n
+412,train31548,who has been chosen for best supporting actress in 64th national filmfare award,f
+413,train37084,who is the first master chef of india,n
+414,train12416,who does the voice for belle in beauty and the beast,n
+415,train39445,who voices lucifer in the devil is a part timer,n
+416,train15899,who introduced a standardized system of weights and measures in china,n
+417,train23777,who are the original 4 horsemen of apocalypse,m
+418,train36769,who attended the 1956 academy awards less than a month before becoming a princess,f
+419,train9208,in the tv series buffy the vampire slayer what is buffy's last name,n
+420,train26824,who wrote leviathan detailing his ideas about a state of nature,m
+421,train33971,who was in series 1 of safe house,n
+422,train24426,who played sidney poitier's daughter in a warm december,f
+423,train40422,who do all the swans in england belong to,n
+424,train3514,who played colleen in dr quinn medicine woman,f
+425,train1339,who was the us president when uncle sam got his nickname,m
+426,train26182,who did the mende villagers turn to for help in order to return to their homes,n
+427,train34680,who played the janitor on everybody loves raymond,n
+428,train31719,who has won the most tennis masters titles,n
+429,train48023,who played scott in buffy the vampire slayer,n
+430,train22747,who sings gospel song won't he do it,m
+431,train49747,who plays the bad guy in mad max fury road,m
+432,train27173,who helps mae get her job at the circle,f
+433,train1687,who killed the man on the orient express,m
+434,train14161,what is it called when a first and last name start with the same letter,n
+435,train17097,who was the oldest son on home improvement,m
+436,train6784,who is the lorax and what is his role,m
+437,train48338,who is the announcer on americas got talent,n
+438,train47790,who is the guy who plays beck on victorious,m
+439,train42466,who founded the royal academy of music answers.com,n
+440,train40319,who built the kaaba stone according to the quran,n
+441,train19451,who played teddy altman on grey's anatomy,n
+442,train10070,who are the oldest players in the wnba,n
+443,train3980,who sings the theme song to strike back,n
+444,train27250,who is the guy at the end of crazy aerosmith,m
+445,train3042,where does the name kaiser permanente come from,n
+446,train40491,who choreographed i'm a slave 4 u,n
+447,train33381,who developed a seed drill that planted seeds in straight rows,n
+448,train31034,who wrote the song heaven help us all,n
+449,train37890,who did captain ahab know opposed his pursuit of the great white whale,m
+450,train39522,who played maureen in ricki and the flash,n
+451,train11682,who sang i saw mama kissing santa claus,f
+452,train8190,who plays dr. ben on the bold type,n
+453,train47310,does mr reese died in person of interest,m
+454,train33689,who plays the doctor in sons of anarchy,m
+455,train3533,who won the battle between poras and sikander,n
+456,train30831,who is the longest running character on general hospital,n
+457,train48704,who is on the cover of nfl street 2,n
+458,train32279,who won carrie underwood season of american idol,n
+459,train28168,where does the last name joyce come from,n
+460,train24806,who is considered the father of abstract art,m
+461,train31020,who is the man on the cover of staring at the sea,m
+462,train16271,who is the founder of famous amos cookies,n
+463,train33797,who is the queen of the jungle animal,f
+464,train10316,who played cloud dancing on dr. quinn medicine woman,f
+465,train25511,who was themistocles and what did he do,m
+466,train11323,who played harrison ford's wife in air force one,f
+467,train30455,who was the vice president of the united states during the civil war,n
+468,train36591,who played robert onedin in the onedin line,n
+469,train1000,who plays stevens dad on that 70s show,m
+470,train35282,who plays craigs dad on craig of the creek,m
+471,train22605,who played alice garvey on little house on the prairie,n
+472,train46521,who is the owner of urdu 1 channel,n
+473,train27612,who is minister of magic after voldemort dies,n
+474,train27481,who sang all i want for christmas is a beatle,n
+475,train42132,who does oliver queen marry in the arrow,f
+476,train9167,who is the original singer of here comes the sun,n
+477,train46096,who sings mama can't buy you love,f
+478,train32612,where does the last name tang come from,n
+479,train45171,who wrote the state of the union speech,n
+480,train11564,who sings the song don't tell me you love me,n
+481,train7765,who is the first woman president of india national congress,f
+482,train17839,who is the grandmother in the movie gifted,f
+483,train42341,who won the women's asia t20 cup 2018,f
+484,train10082,who has scored the most goals in a single match,n
+485,train6306,who presented the last seprate rail budget of india,n
+486,train46204,who does the coal mining safety & health act apply to,n
+487,train45268,who makes the diesel engine for the chevy equinox,n
+488,train24076,what is the name of new delhi airport,n
+489,train29079,who was the witch in pirates of the caribbean,f
+490,train29268,who played bobby ewing's wife on dallas,f
+491,train23306,who sang papa was a rolling stone first,n
+492,train42433,who plays dobby in harry potter and the chamber of secrets,n
+493,train27245,who plays the little boy in shake it up,m
+494,train11106,who played lily on the drew carey show,n
+495,train16346,actress who played stephanie in saturday night fever,f
+496,train3758,who wrote the book of 1&2 kings,m
+497,train18042,who is the girl in zz top legs video,f
+498,train8825,who sings you got the music in me,n
+499,train6997,who played the blue ranger in power rangers,n
+500,train36818,who served as head of the us sanitary commission,n
+501,train17545,who has won the 2017 ecuador presidential election,n
+502,train23814,who wrote the hymn all hail the power of jesus name,n
+503,train43897,who is the father of seir in the bible,m
+504,train1414,when did the british royal house change its name from saxe-coburg and gotha to windsor,n
+505,train41763,who was the last person on the moon,n
+506,train28030,who played edwards on little house on the prairie,n
+507,train45582,who developed an apparatus to breathe compressed air underwater,n
+508,train22124,who wrote the song paint me a birmingham,n
+509,train31343,who is the oldest bank in the world,n
+510,train5484,where did the foo fighters get their name from,n
+511,train29881,who sings the happiest girl in the whole usa,f
+512,train37754,what is the origin of the name jonathan,n
+513,train21979,who wrote johnny cash's song a boy named sue,m
+514,train5696,who played bam bam in the movie the flintstones,n
+515,train27906,who wrote the song i'm every woman,f
+516,train1834,who sang most beautiful girl in the world,f
+517,train9627,who was alabama's running back last year,n
+518,train3118,who sang the disney song when you wish upon a star,n
+519,train14189,who is the founder of taoism and what book contains his teachings,m
+520,train10800,who played ben parish in the 5th wave,n
+521,train13048,who plays ruby jeffries on hart of dixie,n
+522,train9975,who sings the song shout from animal house,n
+523,train24962,who was responsible for developing the gurumukhi script,n
+524,train23910,who sang the song one toke over the line sweet jesus,n
+525,train11854,who played jack in the nightmare before christmas,n
+526,train26619,who is the senior senator from new york,n
+527,train29966,who made the iron throne in game of thrones,n
+528,train38104,who sang lead vocals on blue collar man,m
+529,train17595,who was the original singer of the song one tin soldier,n
+530,train32850,who sings the song i think i'm in love,n
+531,train14076,who sang the song they're coming to take me away haha,n
+532,train34643,who writes the headlines to a news story,n
+533,train33031,the last super continent that broke apart to form today 's landmasses is known by what name,n
+534,train10306,where did the edmonton oilers get their name,n
+535,train1033,who did jeff bridges play in iron man,m
+536,train39575,who played conrad birdie in bye bye birdie,n
+537,train13642,who wrote the song angry all the time,n
+538,train35503,who wrote its gonna take a miracle,n
+539,train8102,who does the voice for buzz lightyear in toy story,n
+540,train47521,who sang i love how you love me,n
+541,train42519,who did our lady of knock appear to,f
+542,train12525,who did the original crazy little thing called love,n
+543,train32872,who wrote the song you can leave your hat on,n
+544,train42721,what is the name of the special forces in the marines,n
+545,train31099,who sang shout in the movie animal house,n
+546,train47438,who said don't confuse me with the facts,n
+547,train1442,us president who has been listed on the time 100 a record 11 times,n
+548,train26489,who is the older brother mario or luigi,m
+549,train2268,who played count dooku in revenge of the sith,n
+550,train5370,who presented it'll be alright on the night,n
+551,train25859,who plays the nanny on one tree hill,n
+552,train8075,what is the foxes name on peppa pig,n
+553,train42149,who is the new chairman of national scheduled tribes commision,m
+554,train45283,who jumped from the tree in a separate peace,n
+555,train21608,who was the actor that played ponyboy in the outsiders,n
+556,train43191,who plays vivian in fresh prince of bel air,m
+557,train42765,who sang hakuna matata from the lion king,m
+558,train26843,who adopted the constitution of india on 26 november 1949,n
+559,train38334,who was the king at the time of bajirao,m
+560,train45452,who won the men's singles in 2010,m
+561,train47380,who wrote the song we'll meet again,n
+562,train21133,who does the voice of the count on sesame street,n
+563,train5096,who plays rip hunter in legends of tomorrow,n
+564,train19951,who was griffin how did he become invisible,m
+565,train48274,who sings ain't nothing wrong with the radio,n
+566,train4167,who does the voice of shan yu in mulan,n
+567,train10159,who played wayne in sometimes they come back,n
+568,train38300,falling in love with the person who saved your life,n
+569,train40344,who sang the original captain of her heart,f
+570,train5525,who did the patriots beat in the last super bowl,n
+571,train11137,who wrote what kind of man would i be,m
+572,train21592,who established music education in the boston schools as part of every child's education,n
+573,train23038,who won the great british bake off season 8,n
+574,train49881,who wrote the song till there was you,n
+575,train41844,who wrote queen of my double wide trailer,f
+576,train42999,who is the father of the air force,m
+577,train46180,who is trying to kill bea in wentworth,n
+578,train5540,who was the king of england in 1755,m
+579,train11345,who plays frankie's father in the middle,m
+580,train7156,who is the band in a star is born,n
+581,train40595,who sang the song respect before aretha franklin,n
+582,train12369,who describes democracy as the tyranny of the majority,n
+583,train13509,who played kyle hobart in sons of anarchy,m
+584,train35922,who played the guitar solo on hot stuff,n
+585,train46825,who sings never say never with justin bieber,n
+586,train23981,who won the 2016 republican party precinct caucus in minnesota,n
+587,train15103,who wrote the song baptism of jesse taylor,n
+588,train14664,who sings i'm back on the road again,n
+589,train37179,who is the longest serving mp in the uk,n
+590,train45868,who wrote i've got to be me,n
+591,train38335,who is the head basketball coach at alabama,n
+592,train6137,who plays charlie in all dogs go to heaven,n
+593,train23959,who are the kansas city chiefs named after,n
+594,train30310,who played mr. rumbold in are you being served,n
+595,train18003,who is josh matthews on girl meets world,f
+596,train44608,who combined the electric and magnetic phenomena into one unified theory,n
+597,train44523,who plays emily and katie's dad in skins,m
+598,train3567,what is the original name of south africa,n
+599,train41220,piper's real name orange is the new black,n
+600,train30868,who played miss celie in the color purple,f
+601,train20161,where did the name american football come from,n
+602,train167,who was born in 2 halves to 2 different mothers in mahabharat,f
+603,train36829,who wrote with you from ghost the musical,n
+604,train27932,who played mr collins in pride and prejudice,m
+605,train40125,who becomes king after the previous one dies in the hereditary ruler system,m
+606,train1379,who sang these boots were made for walking first,n
+607,train15050,in crossing jordan who does jordan end up with,n
+608,train8175,write the name of two kings of chahamanas dynasty,m
+609,train30963,who is barbra on dancing with the stars,n
+610,train28963,who did the chiefs beat in the super bowl,n
+611,train27439,what was robin's name in batman and robin,n
+612,train20436,who introduced the concept of doctrine of signature,n
+613,train15395,what is the moms name in everything everything,f
+614,train1313,who is attorney general of india in present,n
+615,train14918,who sang i know him so well with elaine page,m
+616,train8335,who played long john silver in the pagemaster,n
+617,train7943,who is the actress who plays the mayor in blue bloods,f
+618,train44427,who was the mom on sweet life of zack and cody,f
+619,train19895,who is the secretary general of the un and where is he from,m
+620,train13457,who threw the golden apple in greek mythology,n
+621,train15049,who owns most of the wealth in america,n
+622,train27474,who played polly in after the thin man,m
+623,train30224,who is the guy who does vogue 73 questions,m
+624,train30853,who played florence's mother on the jeffersons,f
+625,train47089,who played the original mark fowler in eastenders,n
+626,train17118,who did romeo miller play college basketball for,n
+627,train40283,who did mos def play in cadillac records,n
+628,train7553,what is the proper name of a foot doctor,n
+629,train21228,who does hamlet kill first in the play,n
+630,train10985,who was born on the 2nd of september,n
+631,train1280,who sings come back when you grow up girl,f
+632,train40584,who is credited with developing the periodic table,n
+633,train36344,who plays craig in ronny chieng international student,n
+634,train43606,who wrote the song scars to your beautiful,n
+635,train33776,who inaugurated maharashtra state on 1 may 1960,n
+636,train43465,who played pea eye parker in lonesome dove,n
+637,train30163,who plays caleb rivers in pretty little liars,n
+638,train48835,who lived in the house of the faun,n
+639,train15450,who plays the grim reaper in billy and mandy,n
+640,train35851,who is the only member of the 15th lok sabha to get elected to the house unopposed,n
+641,train20027,who sings the country song i loved her first,f
+642,train29936,who is the first woman from africa to have won the nobel peace prize,f
+643,train14772,who is the actress who plays linda on blue bloods,f
+644,train14330,who plays the ice queen in the lion the witch and the wardrobe,f
+645,train14232,who has the power to create all india services,n
+646,train678,who found gold in the california gold rush,n
+647,train28177,who sang the theme tune to the world is not enough,n
+648,train40863,who is the president of tamil nadu 2017,n
+649,train10540,who is best known as the founder of the sierra club quizlet,n
+650,train14128,what is the prince's name in sleeping beauty,n
+651,train30608,who is the singer in maria maria by santana,n
+652,train3710,who plays tim mcgee's girlfriend on ncis,f
+653,train18845,who plays the goblin in harry potter 8,n
+654,train37437,who was billy the kid in young guns,n
+655,train9934,who is credited with motivating the french to victory in the hundred years' war,n
+656,train28885,who sings put me in coach i'm ready to play today,n
+657,train22023,who plays the emperor in emperor's new groove,n
+658,train40395,who plays phil's dad on modern family,m
+659,train49696,who played jack in lord of the flies 1990,n
+660,train35697,who performed with beyonce at the super bowl,n
+661,train581,who hit the gong on take your pick,n
+662,train35522,who did matt forte play for last year,n
+663,train20835,who is known as father of early modern medicine,m
+664,train23105,who wrote much too young to feel this old,n
+665,train40137,who sings chained to the rhythm with katy perry,n
+666,train33603,who invented the protocol of one volt per octave,n
+667,train49649,who sang i'll still be loving you,n
+668,train30513,who was the first black hockey player in the nhl,n
+669,train16131,who played alice boyfriend on the brady bunch,m
+670,train31553,who is frank ocean thinking about you about,n
+671,train16502,what is the name of heroine in hindi medium,f
+672,train34814,name the folded mountains of the western cape that enclose the little karoo,n
+673,train270,who sings don't stop thinking about tomorrow,n
+674,train43030,who do the kings in a deck of cards represent,m
+675,train18822,who played phil in phil of the future,n
+676,train5314,who was the actress that played aunt bea,f
+677,train23998,who sang i got a brand new combine harvester,n
+678,train624,who wrote the song keep me hanging on,n
+679,train18848,who is sasha on dancing with the stars engaged to,n
+680,train7109,who sang the theme tune to dear john,n
+681,train10384,who does the voice of lois in family guy,m
+682,train23278,who does the voice of nala in lion king,m
+683,train4490,what is the princesses name in the movie brave,n
+684,train43335,who plays ruby baker in the glass house,n
+685,train37777,who is the parent company of fox news,n
+686,train7516,who sings theme song for sons of anarchy,m
+687,train30161,who does the voice of trump in our cartoon president,n
+688,train7676,who plays the mom in the fault in our stars,f
+689,train33363,who said a family that prays together stays together,n
+690,train22796,who sang the original version of tennessee whiskey,n
+691,train19687,who is the original singer of galway girl,f
+692,train32949,who sang the song 1 2 3 4,n
+693,train46300,who is the actress playing hayden on general hospital,f
+694,train31072,who was peter quill's dad in guardians of the galaxy,m
+695,train45939,who plays tom's wife on parks and recreation,f
+696,train19324,who was put in boiling oil in the bible,n
+697,train31721,who does godzilla fight in the 2014 movie,n
+698,train23764,who starred in the movie four for texas,n
+699,train48725,who won the german invasion of the soviet union,n
+700,train47435,in the lay of sir launfal who denounces sir launfal to king arthur,m
+701,train7155,who played in the movie eve's bayou,n
+702,train37172,who played ed hall on one life to live,n
+703,train21272,who came up with the name united states of america,n
+704,train38854,what is the name of the first episode in series 5 of the simpsons,n
+705,train49630,who has the most clean sheets in the world,n
+706,train36834,who killed jordan kalfus in man on fire,m
+707,train13831,who is the actress that plays red on orange is the new black,f
+708,train28033,who was the first european to discover the mississippi river,n
+709,train39916,who won the 2018 us open women's,f
+710,train24766,who wins season 7 of rupaul's drag race,n
+711,train25441,who is the main character in highschool dxd,n
+712,train22285,who topped the charts in 2002 with imagine,n
+713,train26100,who fought the battles at trafalgar and austerlitz which side won each battle,n
+714,train30827,who played the president in independence day 2,n
+715,train36832,who is the drummer of the red hot chili peppers,n
+716,train35362,where did the last name martin come from,n
+717,train26166,who plays justin in let's be cops,n
+718,train362,who played charles holy roman emperor in the tudors,n
+719,train11840,who won the ncaa women's lacrosse championship,f
+720,train29016,who were the monkeys in the lazy song,n
+721,train20598,who sang joshua fought the battle of jericho,n
+722,train3940,who played general marshall in saving private ryan,n
+723,train11844,woman who jumped off the empire state building,f
+724,train18554,who wrote the song the shadow of your smile,n
+725,train6534,who rebuilt kashi vishwanath mandir in 16 th century,n
+726,train9693,who plays michelle in hot shots part deux,n
+727,train35206,who plays beneatha in a raisin in the sun movie,n
+728,train29127,who played chrissa in the american girl movie,f
+729,train20564,who is emma from big brother married to,m
+730,train33318,who is the writer of a century is not enough,n
+731,train33473,who was the girl in the movie cocktail,f
+732,train2997,who sang first cut is the deepest first,n
+733,train7705,who was the youngest person elected president of united states,n
+734,train36778,who has won the most seasons of survivor,n
+735,train20228,who started the practice of gerrymandering back in 1812 and what state was he from,m
+736,train25310,who is the girl in she's so mean video,f
+737,train12033,who conceived job design as an important instrument to motivate employees,n
+738,train21347,who has scored the most points in the ryder cup,n
+739,train7808,who took over the direction of the st. petersburg ballet in 1869,n
+740,train3795,who played melinda gordon's mother on ghost whisperer,f
+741,train46473,who played the lone ranger on the greatest american hero,n
+742,train26461,who plays the faun in pan's labyrinth,n
+743,train9776,who sang as long as he needs me,m
+744,train15911,who was murdered by my boyfriend based on,m
+745,train27385,who played ainsley hayes in the west wing,n
+746,train35149,who sang i got my eyes on you,n
+747,train16558,who was the first woman to be nominated for best director at the academy awards,f
+748,train46761,what is the meaning of the name akira,n
+749,train16195,who plays lauren on the young and the restless,n
+750,train30497,who plays olivia's brother on law and order svu,m
+751,train49109,who was the last person publicly executed in the us,n
+752,train25880,where does the last name walker originate from,n
+753,train14702,who was the last emperor of the augustinian line,n
+754,train43019,who won the women's wimbledon championship 2015,f
+755,train37791,who is a pilot and what does he do,m
+756,train43408,who developed the idea of garden city in england,n
+757,train32226,who plays sister monica joan in call the midwife,f
+758,train42784,who played tommy on 3rd rock from the sun,n
+759,train12651,who killed the burn victim in grey's anatomy,n
+760,train18181,who has scored the most test runs for australia,n
+761,train4169,who married mr. wickham in pride and prejudice,n
+762,train9417,what is the real name of mr bojangles,m
+763,train1209,where did chip and dale dancers get their name,n
+764,train16421,who is the oldest monarch to be crowned,n
+765,train26308,who played charlie's mom in willy wonka and the chocolate factory,f
+766,train37289,who sings the theme song for one on one,n
+767,train49112,who did uconn women's basketball lose to,f
+768,train10815,who governs a homeowners' or condominium association and its restrictions,n
+769,train18152,who is the girl in coming to america,f
+770,train7235,who is the drummer for noel gallagher's high flying birds,n
+771,train23113,who is joining real housewives of beverly hills,f
+772,train1443,what is the name of a water tornado,n
+773,train8531,who plays earl's wife in my name is earl,f
+774,train43211,who sang i want to walk you home,n
+775,train3555,where does the name linkin park come from,n
+776,train39904,who sang to know her is to love her,f
+777,train28732,who coaches texas tech men's basketball team,m
+778,train6083,who wrote the book my experiments with truth,n
+779,train31706,who played rhea perlman's husband on cheers,m
+780,train560,who sang turn back the hands of time,n
+781,train4457,who is the famous coach in facing the giants,n
+782,train4445,who is considered the mother of philippine folklore,f
+783,train12897,who sings the song i'll do anything for you,n
